@@ -48,6 +48,6 @@ parse_date() и parse_number() разбирают значения для про
 2024-12-31, то есть 31 декабря 2024 года допускается. MAX_DATE — день
 запуска.
 
-##Диаграмма последовательности
+## Диаграмма последовательности
 
-<img width="631" height="939" alt="Диаграммма последовательниости" src="https://github.com/user-attachments/assets/debe34e8-0bd4-449a-a87c-744396f667eb" />
+<img width="631" height="939" alt="Диаграммма последовательниости" src="https://github.com/user-attachments/assets/84d6d5c7-9a1f-4224-b266-d2b2fbb56fbb" />
