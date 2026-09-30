@@ -1,5 +1,3 @@
-"""Проверки отдельных столбцов и разбор значений CSV."""
-
 from datetime import date
 from decimal import Decimal, InvalidOperation
 

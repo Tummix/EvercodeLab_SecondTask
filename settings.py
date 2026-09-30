@@ -1,5 +1,3 @@
-"""Настройки путей и правил проверки."""
-
 import re
 from datetime import date
 from pathlib import Path

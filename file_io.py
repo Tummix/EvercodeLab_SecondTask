@@ -1,5 +1,3 @@
-"""Чтение CSV и запись двух результирующих листов Excel."""
-
 import csv
 from pathlib import Path
 

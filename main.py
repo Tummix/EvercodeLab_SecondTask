@@ -1,5 +1,3 @@
-"""Разовая проверка CSV: очищенные операции и список проблем в одном XLSX."""
-
 from datetime import date
 
 from file_io import read_csv, write_excel

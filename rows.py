@@ -1,5 +1,3 @@
-"""Проверка строк и распределение по двум листам."""
-
 from collections import Counter
 from datetime import date
 
